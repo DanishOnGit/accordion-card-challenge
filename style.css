@@ -189,14 +189,16 @@ h5{
     }
     .woman{
         position: absolute;
-        top: -7rem;
-        left: 5rem;
+        top: -2.8rem;
+        left: 4.5rem;
         width: 16rem;
     }
     .box{
         position: relative;
-        top: -5rem;
-        left: 1rem;
+        top: -3.2rem;
+        left: 3.7rem;
+        height: 6.5rem;
+        width: 7rem;
     }
     .cardText{
         margin-top: 5rem;
